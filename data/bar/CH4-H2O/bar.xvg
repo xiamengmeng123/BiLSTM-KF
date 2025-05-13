@@ -1,0 +1,37 @@
+# This file was created Wed Mar 12 09:39:17 2025
+# Created by:
+#                       :-) GROMACS - gmx bar, 2019.6 (-:
+# 
+# Executable:   /fs1/software/gromacs/2019.6-sp-icc19.1-IMPI2019.8/bin/gmx_mpi
+# Data prefix:  /fs1/software/gromacs/2019.6-sp-icc19.1-IMPI2019.8
+# Working dir:  /fs1/home/chengkun_wu/mmx/gromacs/jiawan/bar
+# Command line:
+#   gmx_mpi bar -f md0.xvg md10.xvg md11.xvg md12.xvg md13.xvg md14.xvg md15.xvg md16.xvg md17.xvg md18.xvg md19.xvg md1.xvg md20.xvg md2.xvg md3.xvg md4.xvg md5.xvg md6.xvg md7.xvg md8.xvg md9.xvg -o -oi
+# gmx bar is part of G R O M A C S:
+#
+# Glycine aRginine prOline Methionine Alanine Cystine Serine
+#
+@    title "Free energy differences"
+@    xaxis  label "\xl\f{}"
+@    yaxis  label "\xD\f{}G (kT)"
+@TYPE xydy
+ 0.500  0.08  0.00
+ 1.500  0.07  0.00
+ 2.500  0.06  0.00
+ 3.500  0.04  0.00
+ 4.500  0.02  0.00
+ 5.500 -0.00  0.00
+ 6.500 -0.03  0.00
+ 7.500 -0.05  0.00
+ 8.500 -0.10  0.00
+ 9.500 -0.15  0.01
+10.500 -0.22  0.01
+11.500 -0.32  0.01
+12.500 -0.45  0.01
+13.500 -0.56  0.01
+14.500 -0.59  0.01
+15.500 -0.53  0.01
+16.500 -0.41  0.01
+17.500 -0.28  0.00
+18.500 -0.16  0.00
+19.500 -0.05  0.00

@@ -1,0 +1,32 @@
+# This file was created Fri Dec 13 09:14:51 2024
+# Created by:
+#                       :-) GROMACS - gmx bar, 2019.6 (-:
+# 
+# Executable:   /fs1/software/gromacs/2019.6-sp-icc19.1-IMPI2019.8/bin/gmx_mpi
+# Data prefix:  /fs1/software/gromacs/2019.6-sp-icc19.1-IMPI2019.8
+# Working dir:  /fs1/home/chengkun_wu/mmx/gromacs/data/NPBA_LIG/bar
+# Command line:
+#   gmx_mpi bar -f md0.xvg md10.xvg md11.xvg md12.xvg md13.xvg md14.xvg md15.xvg md1.xvg md2.xvg md3.xvg md4.xvg md5.xvg md6.xvg md7.xvg md8.xvg md9.xvg -o -oi -oh
+# gmx bar is part of G R O M A C S:
+#
+# Guyana Rwanda Oman Macau Angola Cameroon Senegal
+#
+@    title "Free energy differences"
+@    xaxis  label "\xl\f{}"
+@    yaxis  label "\xD\f{}G (kT)"
+@TYPE xydy
+ 0.500  0.00  0.00
+ 1.500 13.33  0.03
+ 2.500 12.90  0.03
+ 3.500 12.46  0.02
+ 4.500 12.00  0.01
+ 5.500 11.62  0.02
+ 6.500 -0.16  0.02
+ 7.500 -0.12  0.03
+ 8.500 -0.07  0.02
+ 9.500  0.17  0.05
+10.500  0.42  0.04
+11.500  0.27  0.01
+12.500  0.32  0.01
+13.500  0.18  0.01
+14.500  0.18  0.00

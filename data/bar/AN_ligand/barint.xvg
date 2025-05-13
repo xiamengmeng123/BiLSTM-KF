@@ -1,0 +1,33 @@
+# This file was created Fri Dec 13 09:14:51 2024
+# Created by:
+#                       :-) GROMACS - gmx bar, 2019.6 (-:
+# 
+# Executable:   /fs1/software/gromacs/2019.6-sp-icc19.1-IMPI2019.8/bin/gmx_mpi
+# Data prefix:  /fs1/software/gromacs/2019.6-sp-icc19.1-IMPI2019.8
+# Working dir:  /fs1/home/chengkun_wu/mmx/gromacs/data/NPBA_LIG/bar
+# Command line:
+#   gmx_mpi bar -f md0.xvg md10.xvg md11.xvg md12.xvg md13.xvg md14.xvg md15.xvg md1.xvg md2.xvg md3.xvg md4.xvg md5.xvg md6.xvg md7.xvg md8.xvg md9.xvg -o -oi -oh
+# gmx bar is part of G R O M A C S:
+#
+# Great Red Owns Many ACres of Sand 
+#
+@    title "Free energy integral"
+@    xaxis  label "\xl\f{}"
+@    yaxis  label "\xD\f{}G (kT)"
+@TYPE xy
+     0  0.00
+     1  0.00
+     2 13.33
+     3 26.23
+     4 38.69
+     5 50.70
+     6 62.32
+     7 62.16
+     8 62.04
+     9 61.97
+    10 62.13
+    11 62.55
+    12 62.82
+    13 63.14
+    14 63.32
+    15 63.50

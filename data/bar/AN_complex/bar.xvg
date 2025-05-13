@@ -1,0 +1,32 @@
+# This file was created Fri Oct 25 09:51:53 2024
+# Created by:
+#                       :-) GROMACS - gmx bar, 2019.6 (-:
+# 
+# Executable:   /fs1/software/gromacs/2019.6-sp-icc19.1-IMPI2019.8/bin/gmx_mpi
+# Data prefix:  /fs1/software/gromacs/2019.6-sp-icc19.1-IMPI2019.8
+# Working dir:  /fs1/home/chengkun_wu/mmx/gromacs/data/1/bar
+# Command line:
+#   gmx_mpi bar -f md0.xvg md10.xvg md11.xvg md12.xvg md13.xvg md14.xvg md15.xvg md1.xvg md2.xvg md3.xvg md4.xvg md5.xvg md6.xvg md7.xvg md8.xvg md9.xvg -o -oi -oh
+# gmx bar is part of G R O M A C S:
+#
+# GRoups of Organic Molecules in ACtion for Science
+#
+@    title "Free energy differences"
+@    xaxis  label "\xl\f{}"
+@    yaxis  label "\xD\f{}G (kT)"
+@TYPE xydy
+ 0.500  0.00  0.00
+ 1.500 16.94  0.13
+ 2.500 16.01  0.09
+ 3.500 14.48  0.16
+ 4.500 13.29  0.07
+ 5.500 11.97  0.06
+ 6.500  2.37  0.08
+ 7.500  2.25  0.03
+ 8.500  2.37  0.04
+ 9.500  5.06  0.12
+10.500  4.14  0.06
+11.500  1.78  0.06
+12.500  1.34  0.06
+13.500  0.31  0.06
+14.500  0.02  0.07

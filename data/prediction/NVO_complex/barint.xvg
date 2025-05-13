@@ -1,0 +1,33 @@
+# This file was created Thu Feb 27 14:26:28 2025
+# Created by:
+#                       :-) GROMACS - gmx bar, 2019.6 (-:
+# 
+# Executable:   /fs1/software/gromacs/2019.6-sp-icc19.1-IMPI2019.8/bin/gmx_mpi
+# Data prefix:  /fs1/software/gromacs/2019.6-sp-icc19.1-IMPI2019.8
+# Working dir:  /fs1/home/chengkun_wu/mmx/LSTM/torch_LSTM_predict-FEP/data/prediction/NVO_complex
+# Command line:
+#   gmx_mpi bar -f md0_prediction.xvg md10_prediction.xvg md11_prediction.xvg md12_prediction.xvg md13_prediction.xvg md14_prediction.xvg md15_prediction.xvg md1_prediction.xvg md2_prediction.xvg md3_prediction.xvg md4_prediction.xvg md5_prediction.xvg md6_prediction.xvg md7_prediction.xvg md8_prediction.xvg md9_prediction.xvg -o -oi -oh
+# gmx bar is part of G R O M A C S:
+#
+# Good ROcking Metal Altar for Chronical Sinners
+#
+@    title "Free energy integral"
+@    xaxis  label "\xl\f{}"
+@    yaxis  label "\xD\f{}G (kT)"
+@TYPE xy
+     0  0.00
+     1  0.00
+     2 17.35
+     3 33.78
+     4 48.81
+     5 61.99
+     6 74.26
+     7 76.26
+     8 78.80
+     9 82.15
+    10 88.34
+    11 94.13
+    12 96.72
+    13 98.58
+    14 98.40
+    15 99.29

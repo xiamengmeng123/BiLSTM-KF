@@ -1,0 +1,32 @@
+# This file was created Thu Feb 27 14:26:28 2025
+# Created by:
+#                       :-) GROMACS - gmx bar, 2019.6 (-:
+# 
+# Executable:   /fs1/software/gromacs/2019.6-sp-icc19.1-IMPI2019.8/bin/gmx_mpi
+# Data prefix:  /fs1/software/gromacs/2019.6-sp-icc19.1-IMPI2019.8
+# Working dir:  /fs1/home/chengkun_wu/mmx/LSTM/torch_LSTM_predict-FEP/data/prediction/NVO_complex
+# Command line:
+#   gmx_mpi bar -f md0_prediction.xvg md10_prediction.xvg md11_prediction.xvg md12_prediction.xvg md13_prediction.xvg md14_prediction.xvg md15_prediction.xvg md1_prediction.xvg md2_prediction.xvg md3_prediction.xvg md4_prediction.xvg md5_prediction.xvg md6_prediction.xvg md7_prediction.xvg md8_prediction.xvg md9_prediction.xvg -o -oi -oh
+# gmx bar is part of G R O M A C S:
+#
+# Great Red Owns Many ACres of Sand 
+#
+@    title "Free energy differences"
+@    xaxis  label "\xl\f{}"
+@    yaxis  label "\xD\f{}G (kT)"
+@TYPE xydy
+ 0.500  0.00  0.00
+ 1.500 17.35  0.11
+ 2.500 16.43  0.03
+ 3.500 15.02  0.18
+ 4.500 13.18  0.41
+ 5.500 12.27  0.44
+ 6.500  2.00  0.16
+ 7.500  2.54  0.09
+ 8.500  3.35  0.10
+ 9.500  6.20  0.26
+10.500  5.79  0.07
+11.500  2.59  0.05
+12.500  1.86  0.06
+13.500 -0.18  0.05
+14.500  0.88  0.07
